@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://clinquant-mermaid-7ebaaa.netlify.app"],
+    "method": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    "responseHeader": ["Content-Type", "Authorization"],
+    "maxAgeSeconds": 3600
+  }
+]

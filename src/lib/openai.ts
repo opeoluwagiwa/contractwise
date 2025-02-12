@@ -1,0 +1,1 @@
+// This file should be removed as OpenAI calls should only be made from the backend
